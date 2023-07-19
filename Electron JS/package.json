@@ -1,0 +1,16 @@
+{
+  "name": "electron-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "nodemon --exec electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^25.3.0",
+    "nodemon": "^2.0.22"
+  }
+}
